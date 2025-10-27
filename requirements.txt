@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pydantic
-pydantic[email]
-python-dotenv
-argon2-cffi
-pyturso
